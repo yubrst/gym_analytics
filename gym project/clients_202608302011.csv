@@ -1,0 +1,6 @@
+"client_id","last_name","first_name","middle_name","phone","email","qr_code"
+1,Иванова,Анна,Сергеевна,+7-900-123-45-67,anna.ivanova@mail.ru,QR001
+2,Петров,Дмитрий,Александрович,+7-900-234-56-78,dmitry.petrov@mail.ru,QR002
+3,Сидорова,Елена,Михайловна,+7-900-345-67-89,elena.sidorova@mail.ru,QR003
+4,Козлов,Алексей,Владимирович,+7-900-456-78-90,alexey.kozlov@mail.ru,QR004
+5,Новикова,Мария,Андреевна,+7-900-567-89-01,maria.novikova@mail.ru,QR005
